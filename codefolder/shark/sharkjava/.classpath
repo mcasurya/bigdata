@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/training/spark-1.0.0-bin-hadoop1/lib/spark-assembly-1.0.0-hadoop1.0.4.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive-exec-0.7.0-cdh3u0.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive-jdbc-0.10.0.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive-metastore-0.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive_serde.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive-serdes-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/hive-service-0.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/training/surya/libfb303.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
